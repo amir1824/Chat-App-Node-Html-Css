@@ -1,5 +1,5 @@
 Chat App with node.js in backend
-And Html and Css in front
+js,html,css in front
 
 Basic app of chat with rooms and users
 
