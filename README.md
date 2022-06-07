@@ -1,13 +1,18 @@
-Chat App with node.js in backend.
+## Chat App 
 
-js,html,css in frontend
-
-Basic app of chat with rooms and users
-
-To build real time chat app i worked with socket.io
-
-Enjoy :) 
-
-
+Basic app of real time  chat with rooms and users
 
 https://chat-app-node-abs.herokuapp.com/
+
+## technologies
+
+- node.js
+- html
+- css
+- vanila js
+- socket.io
+
+
+
+
+
