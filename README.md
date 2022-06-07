@@ -9,7 +9,7 @@ https://chat-app-node-abs.herokuapp.com/
 - node.js
 - html
 - css
-- vanila js
+- java script
 - socket.io
 
 
